@@ -1,6 +1,5 @@
-YouTube MP3 Extractor is a web-based application that allows users to extract audio from YouTube videos. By inputting a YouTube URL and specific timestamps, users can generate MP3 files from the selected segments. The app features a simple and intuitive interface with progress tracking, and it offers file download functionality, making it easy to save the extracted audio files. Built with modern web technologies, this tool provides an efficient and seamless experience for downloading and managing YouTube audio.
-
-
+## YouTube MP3 Extractor 
+is a web-based application that allows users to extract audio from YouTube videos by providing a YouTube URL and timestamps. The app utilizes yt-dlp and ffmpeg (included in the app/dep folder) for video downloading and audio extraction. It features an intuitive interface for managing timestamps and downloading extracted MP3 files. Built with modern web technologies, this tool offers a seamless user experience with progress tracking and efficient file handling.
 
 ## Getting Started
 
